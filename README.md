@@ -1,9 +1,9 @@
 # GetData_Project
 Files related with Getting and Cleaning Data Course Project:
 
-- run_analysis.R          R script for analysing data from UCI HAR Dataset
-- tidydata.txt            summarised dataset obtained as output
-- code_book.txt           description of variables in tidydata.txt
+- run_analysis.R:       R script for analysing data from UCI HAR Dataset
+- tidydata.txt:         summarised dataset obtained as output
+- code_book.txt:        description of variables in tidydata.txt
 
 ## Script Description
 
