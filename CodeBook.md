@@ -10,16 +10,27 @@ This database summarizes the measurements on the mean and standard deviation fro
 
 
 The naming convention for the rest of variables is:
+
         t               time
+
         f               frequency calculated using Fast Fourier Transform
+
         Acc             accelerometer signal
+
         Gyro            gyroscope sygnal
+
         Body            body acceleration
+
         Gravity         gravity acceleration
+
         Jerk            Jerk signals derived from linear acceleration and angular velocity
+
         Mag             magnitude calculated using Euclidean norm
+
         mean()          average
+
         std()           standar deviation
+
         X,Y,Z           cartesian component
         
 ## Measurable variables
