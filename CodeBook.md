@@ -8,11 +8,10 @@ This database summarizes the measurements on the mean and standard deviation fro
 - 1 Subject: integer, representing each subject (1-30)
 - 2 Activity: character, label for each activity (LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS)
 
-## Measurable variables
 
-The naming convention is:
+The naming convention for the rest of variables is:
         t               time
-        f               frequency calculated usin Fast Fourier Transform
+        f               frequency calculated using Fast Fourier Transform
         Acc             accelerometer signal
         Gyro            gyroscope sygnal
         Body            body acceleration
@@ -23,6 +22,7 @@ The naming convention is:
         std()           standar deviation
         X,Y,Z           cartesian component
         
+## Measurable variables
         
 - 3 tBodyAcc-mean()-X: num
 - 4 tBodyAcc-mean()-Y: num
